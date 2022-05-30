@@ -1,0 +1,16 @@
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\UsingOperators.csproj.AssemblyReference.cache
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\UsingOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\UsingOperators.AssemblyInfoInputs.cache
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\UsingOperators.AssemblyInfo.cs
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\UsingOperators.csproj.CoreCompileInputs.cache
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\bin\Debug\net5.0\UsingOperators.exe
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\bin\Debug\net5.0\UsingOperators.deps.json
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\bin\Debug\net5.0\UsingOperators.runtimeconfig.json
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\bin\Debug\net5.0\UsingOperators.runtimeconfig.dev.json
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\bin\Debug\net5.0\UsingOperators.dll
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\bin\Debug\net5.0\UsingOperators.pdb
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\UsingOperators.dll
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\refint\UsingOperators.dll
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\UsingOperators.pdb
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\UsingOperators.genruntimeconfig.cache
+C:\Users\Chris\repos\vsPrograms\UsingOperators\UsingOperators\obj\Debug\net5.0\ref\UsingOperators.dll
